@@ -1,0 +1,64 @@
+ {padding:0;
+margin:0;
+color: white;
+}
+
+body {background-image:url(back.jpg);
+background-size: cover;}
+
+
+#nevbar { position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: 50px;
+    background-color: #0f1111
+    ;
+}
+p{color: black;}
+
+
+button{ background-color: #d439c0;
+    margin-right 5200px;}
+
+#logo {color: #d439c0;
+font-size: 25px; 
+margin-right 5200px;
+}
+
+  
+ a {margin-left: 20px;
+    margin-right: 180px;
+ color: aquamarine;
+text-decoration: none;}
+
+
+.contentbox {
+    height: 100px;
+    width: 100px;
+border: 2px solid black; 
+background-color: rgba(255, 00,00, 0.5);
+display: inline-block;
+}
+
+#content{ height: 1000px; ;}
+
+footer {
+    background-color: #0f1111;
+    color: beige;
+text-align: center; }
+
+#contentbox1,#contentbox2,#contentbox3 {height: 300px;
+    width: 300px;
+background-color:  beige;
+display: inline-block;;
+}
+#art1 {  bottom: 0px;
+    right: 80px;
+}
+#contentbox1 { background-image: url(krishna.jpg);
+    background-size: contain;}
+#contentbox2 {background-image:url(art\ 1.jpg) ;
+background-size:contain ;}
+#contentbox3{background-image: url(art\ 2.jpg);
+background-size: contain;}
